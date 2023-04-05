@@ -6,3 +6,6 @@
 
 <H3>Exercício da eleição</h3>
 
+<P>O algoritmo determinar qual candidato ganhou uma eleição com base na quantidade de votos recebidos. O programa solicitará ao usuário o número total de votos e a quantidade de votos recebidos por cada candidato (José, Maria e João). Em seguida, o algoritmo verifica qual candidato recebeu mais votos e exibe a porcentagem de votos que esse candidato obteve em relação ao número total de votos.</p>
+
+<P>Caso ocorra um empate entre os candidatos, o algoritmo exibe uma mensagem indicando que um programa com critério de desempate deve ser criado.</p>
