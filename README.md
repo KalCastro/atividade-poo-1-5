@@ -13,3 +13,7 @@
 <H3>exercício tabuada 1</H3>
 
 <P>O programa solicita para o usuário inserir um número real e, em seguida, realiza um loop enquanto um contador i é menor ou igual a 10. Dentro desse loop, o programa adiciona o valor inserido pelo usuário à variável x e, em seguida, imprime o valor de x na tela. Depois disso, o contador i é incrementado em 1 e o loop continua até que i chegue a 11. O resultado é que o programa imprime na tela 10 valores, que são a soma acumulada do número inserido pelo usuário. No final, o programa termina.</p>
+
+<H3>exercício tabuada 2</H3>
+
+<H3>exercício tabuada 3</H3>
